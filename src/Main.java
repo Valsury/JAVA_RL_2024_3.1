@@ -22,5 +22,14 @@ public class Main {
 
         System.out.printf("Наибольший элемент массива, равный %.1f, находится в позиции (%d, %d)\n",
                 largest.maxValue, largest.row, largest.column);
+
+
+        MyTime time1 = new MyTime();
+        MyTime time2 = new MyTime(555550000);
+        MyTime time3 = new MyTime(5, 23, 55);
+
+        System.out.println("Текущее время: " + time1);
+        System.out.println("Время после 555550000 миллисекунд: " + time2);
+        System.out.println("Время 5:23:55: " + time3);
     }
 }
