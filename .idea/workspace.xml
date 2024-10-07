@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c16f7a0-b615-4050-a33a-f3975ec81e6b" name="Changes" comment="Add Class &quot;Location&quot;">
-      <change afterPath="$PROJECT_DIR$/src/MyTime.java" afterDir="false" />
+    <list default="true" id="1c16f7a0-b615-4050-a33a-f3975ec81e6b" name="Changes" comment="Add Class My Time">
+      <change afterPath="$PROJECT_DIR$/src/MyInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728298187100</updated>
-      <workItem from="1728298188134" duration="344000" />
+      <workItem from="1728298188134" duration="2127000" />
     </task>
     <task id="LOCAL-00001" summary="Add Class &quot;Location&quot;">
       <option name="closed" value="true" />
@@ -92,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728298400361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Class My Time">
+      <option name="closed" value="true" />
+      <created>1728299122703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728299122703</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add Class &quot;Location&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Class &quot;Location&quot;" />
+    <MESSAGE value="Add Class My Time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Class My Time" />
   </component>
 </project>
